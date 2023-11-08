@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Object Oriented Design Practice</b>
   - [Multi-Level Inheritance](https://github.com/takejerrey/Multi-Level-Inheritance-Java)
  - <b>C Projects</b>
