@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacob-terrey/">Programmer, Software Engineer and Veteran</a>
+<h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacob-terrey/">Programmer, Software Engineer, and Veteran</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
