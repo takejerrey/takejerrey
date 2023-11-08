@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Object Oriented Design Practice</b>
+- <b>Object Oriented Design</b>
   - [Multi-Level Inheritance](https://github.com/takejerrey/Multi-Level-Inheritance-Java)
  - <b>C Projects</b>
     - [Caching Local Networks](https://github.com/takejerrey/Caching-Local-Networks)
