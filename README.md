@@ -10,6 +10,7 @@
   - [Automatic Grader](https://github.com/takejerrey/Automatic-Grader)
 - <b>Data Structures and Algorithms</b>
   - [Directional Adjacency Graph](https://github.com/takejerrey/GraphNeighbors)
+  - [Stacks and Pre/Postfix Expressions](https://github.com/takejerrey/Stacks)
 
 
 <h2> 🤳 Connect with me:</h2>
